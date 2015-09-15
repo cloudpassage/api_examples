@@ -36,3 +36,6 @@ To run, these scripts require
 ##Acknowledgements
 Thanks to W. Stearns for providing the proxy-support code for apiget.rb.
 
+<!---
+#CPTAGS:community-supported api-example
+-->
