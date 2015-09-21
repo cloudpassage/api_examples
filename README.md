@@ -38,4 +38,5 @@ Thanks to W. Stearns for providing the proxy-support code for apiget.rb.
 
 <!---
 #CPTAGS:community-supported api-example
+#TBICON:images/ruby_icon.png
 -->
